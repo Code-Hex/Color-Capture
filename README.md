@@ -9,3 +9,4 @@ rgb(12,255,255)
 RGB(123,231,12) 
   
 [Imgur](http://i.imgur.com/n7tZMFF.gifv)
+![Imgur](http://i.imgur.com/n7tZMFF.gifv "Color Capture")

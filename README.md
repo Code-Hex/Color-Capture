@@ -8,4 +8,4 @@ Color Capture is PopClip Extension
 rgb(12,255,255)  
 RGB(123,231,12) 
   
-![Imgur](http://i.imgur.com/n7tZMFF.gif "Color Capture")
+![Imgur](http://i.imgur.com/n7tZMFF.gifv "Color Capture")

@@ -8,4 +8,5 @@ Color Capture is PopClip Extension
 rgb(12,255,255)  
 RGB(123,231,12) 
   
-[Color Capture Example](http://i.imgur.com/n7tZMFF.gifv)
+[Color Capture Example](http://i.imgur.com/n7tZMFF.gifv)  
+[Download](https://github.com/Code-Hex/Color-Capture/blob/master/ColorCapture.popclipext.zip?raw=true)
